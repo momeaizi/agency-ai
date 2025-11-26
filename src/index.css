@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+@import "tw-animate-css";
+@import "tailwindcss";
+
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+* {
+  font-family: 'Manrope', sans-serif;
+  font-weight: 500;
+}
+
+@theme {
+  --primary: #5044E5;
+
+}
+
+@theme inline {
+  --color-primary: var(--primary);
+}
