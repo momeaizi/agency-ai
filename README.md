@@ -2,6 +2,8 @@
 
 Vite + React + TypeScript landing page styled with Tailwind.
 
+**Live Demo:** https://agency-ai-ashy-nine.vercel.app/
+
 Install
 ```bash
 npm install
