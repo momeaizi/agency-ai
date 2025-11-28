@@ -1,4 +1,4 @@
-# Agency AI — Landing Page (short)
+# Agency AI — Landing Page
 
 Vite + React + TypeScript landing page styled with Tailwind.
 
